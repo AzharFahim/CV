@@ -1,0 +1,181 @@
+body {
+  margin: 0;
+  font-size: 100%;
+  background-color: #0093ef;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+.skill-row {
+  background-color: #0093ef;
+}
+
+.skill-row1 {
+  background-color: #0093ef;
+  position: relative;
+  ;
+}
+
+.contact-me {
+  background-color: #0093ef;
+}
+
+.boat {
+  width: 5%;
+  position: relative;
+  right: -15%;
+  top: 7px;
+  margin-right: 0;
+  margin-left: 0;
+  display: inline-block;
+}
+
+.mountain {
+  position: relative;
+  width: 50%;
+  margin-bottom: 0;
+  top: 5px;
+}
+
+.Icon {
+  position: absolute;
+  right: 47%;
+  width: 75px;
+  top: 75px;
+  border-radius: 50px;
+}
+
+.top {
+  padding-top: 100px;
+  position: relative;
+  width: 100%;
+  margin: 0;
+}
+
+.fish {
+  position: relative;
+  width: 10%;
+  right: 25%;
+}
+
+.fish0 {
+  position: relative;
+  width: 10%;
+  left: 25%;
+}
+
+.Azhar {
+  width: 10%;
+  border-radius: 10px;
+  padding-top: 5%;
+  margin: 0;
+}
+
+.hrline {
+  width: 10%;
+  color: yellow;
+  border-top: 10px dotted;
+  border-bottom: 0;
+}
+
+.hrline1 {
+  display: block;
+  width: 10%;
+  color: yellow;
+  border-top: 10px dotted;
+  border-bottom: 0;
+  ;
+}
+
+h1 {
+  position: relative;
+  font-size: 300%;
+  font-family: "Sacramento", cursive;
+  margin-top: 1%;
+  margin-bottom: 0;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  color: #583d72;
+  ;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #f9f7cf;
+}
+
+.Intro {
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  margin-top: 0;
+  color: #66BFBF;
+}
+
+.top {
+  background-color: #E4F9F5
+}
+
+.footer-link {
+  color: black;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 50%;
+  width: 10%
+}
+
+.top-cloud {
+  width: 10%;
+  position: relative;
+  left: 20%;
+}
+
+.skill-row {
+  display: block;
+}
+
+.devhead {
+  position: relative;
+  bottom: 9%;
+}
+
+.devtext {
+  position: relative;
+  left: 35%;
+  width: 30%;
+}
+
+.devimg {
+  position: relative;
+  right: 5%;
+  width: 15%;
+  top: 80%;
+}
+
+.designimg {
+  position: relative;
+  width: 15%;
+  left: 5%;
+}
+
+.designtext {
+  position: relative;
+  width: 30%;
+  text-align: center;
+  left: 35%;
+}
+
+.designhead {
+  position: relative;
+  bottom: 100%;
+  display: block;
+  margin: 0;
+}
+
+.shark {
+  width: 30%;
+}
